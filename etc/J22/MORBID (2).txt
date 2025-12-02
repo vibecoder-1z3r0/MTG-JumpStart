@@ -1,21 +1,20 @@
 MORBID (2)
-//Creatures (8)
-1 Priest of the Blood Rite
-1 Skirsdag High Priest
-1 Morkrut Banshee
+//Creatures (3)
 1 Reassembling Skeleton
-1 Bone Picker
 1 Suspicious Shambler
 1 Wakedancer
-1 Liliana's Steward
-//Sorceries (1)
-1 Reave Soul
 //Instants (2)
 1 Tragic Slip
 1 Village Rites
-//Enchantments (1)
-1 Vampiric Rites
-//Lands (8)
-1 Mortuary Mire
+//Lands (7)
 1 Thriving Moor
 6 Swamp
+//Unknown
+1 Priest of the Blood Rite
+1 Skirsdag High Priest
+1 Morkrut Banshee
+1 Bone Picker
+1 Liliana's Steward
+1 Reave Soul
+1 Vampiric Rites
+1 Mortuary Mire

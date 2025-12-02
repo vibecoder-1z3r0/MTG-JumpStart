@@ -1,5 +1,8 @@
 DEMONS (1)
-//Creatures (8)
+//Lands (8)
+1 Thriving Moor
+7 Swamp
+//Unknown
 1 Kothophed, Soul Hoarder
 1 Conductor of Cacophony
 1 Disciple of Perdition
@@ -8,14 +11,7 @@ DEMONS (1)
 1 Takenuma Bleeder
 1 Fetid Imp
 1 Soulcage Fiend
-//Sorceries (1)
 1 Demon's Grasp
-//Instants (1)
 1 Diabolic Edict
-//Artifacts (1)
 1 Infernal Idol
-//Enchantments (1)
 1 Inner Demon
-//Lands (8)
-1 Thriving Moor
-7 Swamp

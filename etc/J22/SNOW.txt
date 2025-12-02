@@ -1,5 +1,7 @@
 SNOW
-//Creatures (7)
+//Lands (7)
+7 Island
+//Unknown
 1 Isu the Abominable
 1 Avalanche Caller
 1 Phyrexian Ironfoot
@@ -7,14 +9,9 @@ SNOW
 1 Frostpeak Yeti
 1 Chillerpillar
 1 Berg Strider
-//Instants (1)
 1 Crippling Chill
-//Artifacts (2)
 1 Coldsteel Heart
 1 Icebind Pillar
-//Enchantments (2)
 1 Marit Lage's Slumber
 1 Winter's Rest
-//Lands (8)
 1 Shimmerdrift Vale
-7 Snow-Covered Island

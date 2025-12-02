@@ -1,3 +1,13 @@
+INSECTS (1)
+//Creatures (2)
+1 Duskshell Crawler
+1 Moldgraf Millipede
+//Sorceries (1)
+1 Hunter's Edge
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
 1 Swarm Shambler
 1 Nessian Hornbeetle
 1 Nantuko Cultivator
@@ -5,11 +15,5 @@
 1 Crawling Sensation
 1 Caustic Caterpillar
 1 Ironshell Beetle
-1 Duskshell Crawler
 1 Giant Ladybug
-1 Moldgraf Millipede
 1 Relentless Pursuit
-1 Hunter's Edge
-1 Thriving Grove
-7 Forest
-

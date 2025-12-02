@@ -1,4 +1,10 @@
+DETECTIVE (3)
+//Creatures (1)
 1 Shimmer Dragon
+//Lands (8)
+1 Thriving Isle
+7 Island
+//Unknown
 1 Hold for Questioning
 1 Magnifying Glass
 1 Lumengrid Sentinel
@@ -10,6 +16,3 @@
 1 Weldfast Wingsmith
 1 Press for Answers
 1 Jace's Scrutiny
-1 Thriving Isle
-7 Island
-

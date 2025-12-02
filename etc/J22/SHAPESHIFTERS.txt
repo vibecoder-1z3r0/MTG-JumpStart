@@ -1,5 +1,10 @@
 SHAPESHIFTERS
-//Creatures (8)
+//Instants (1)
+1 Chilling Trap
+//Lands (8)
+1 Thriving Isle
+7 Island
+//Unknown
 1 Pirated Copy
 1 Gigantoplasm
 1 Mirror Image
@@ -8,13 +13,6 @@ SHAPESHIFTERS
 1 Amoeboid Changeling
 1 Mistwalker
 1 Littjara Kinseekers
-//Sorceries (1)
 1 Crashing Tide
-//Instants (2)
 1 Lookout's Dispersal
-1 Chilling Trap
-//Artifacts (1)
 1 Heirloom Blade
-//Lands (8)
-1 Thriving Isle
-7 Island

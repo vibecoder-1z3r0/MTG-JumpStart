@@ -1,21 +1,20 @@
 FAERIES (2)
-//Creatures (7)
+//Creatures (4)
 1 Stinging Lionfish
-1 Glen Elendra Pranksters
 1 Undersea Invader
-1 Spellstutter Sprite
 1 Faerie Seer
 1 Pestermite
-1 Sentinels of Glen Elendra
 //Sorceries (1)
 1 Stolen by the Fae
-//Instants (2)
-1 Synchronized Eviction
+//Instants (1)
 1 Soul Read
-//Artifacts (1)
-1 Instruments of War
-//Enchantments (1)
-1 So Tiny
 //Lands (8)
 1 Thriving Isle
 7 Island
+//Unknown
+1 Glen Elendra Pranksters
+1 Spellstutter Sprite
+1 Sentinels of Glen Elendra
+1 Synchronized Eviction
+1 Instruments of War
+1 So Tiny

@@ -1,19 +1,19 @@
 KNIGHTS
-//Creatures (7)
-1 Balan, Wandering Knight
+//Creatures (1)
 1 Danitha Capashen, Paragon
-1 Kwende, Pride of Femeref
-1 Syr Alin, the Lion's Claw
-1 Benalish Honor Guard
-1 Skyhunter Prowler
-1 Order of the Golden Cricket
-//Artifacts (4)
-1 The Circle of Loyalty
-1 Hero's Blade
-1 Shining Armor
-1 Jousting Lance
 //Enchantments (1)
 1 Chains of Custody
 //Lands (8)
 1 Thriving Heath
 7 Plains
+//Unknown
+1 Balan, Wandering Knight
+1 Kwende, Pride of Femeref
+1 Syr Alin, the Lion's Claw
+1 Benalish Honor Guard
+1 Skyhunter Prowler
+1 Order of the Golden Cricket
+1 The Circle of Loyalty
+1 Hero's Blade
+1 Shining Armor
+1 Jousting Lance

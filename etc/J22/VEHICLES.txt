@@ -1,20 +1,17 @@
 VEHICLES
-//Creatures (6)
+//Lands (8)
+1 Thriving Heath
+7 Plains
+//Unknown
 1 Lita, Mechanical Engineer
 1 Hotshot Mechanic
 1 Aethershield Artificer
 1 Kitsune Ace
 1 Sanctum Gargoyle
 1 Giant Ox
-//Instants (1)
 1 Built to Last
-//Artifacts (3)
 1 Peacewalker Colossus
 1 Imperial Recovery Unit
 1 Aradara Express
-//Enchantments (2)
 1 Aerial Modification
 1 Caught in the Brights
-//Lands (8)
-1 Thriving Heath
-7 Plains

@@ -1,5 +1,9 @@
 CYCLING (2)
-//Creatures (7)
+//Lands (8)
+1 Forgotten Cave
+1 Thriving Bluff
+6 Mountain
+//Unknown
 1 Irencrag Pyromancer
 1 Mad Ratter
 1 Rooting Moloch
@@ -7,15 +11,8 @@ CYCLING (2)
 1 Bloodhaze Wolverine
 1 Prickly Marmoset
 1 Plundering Predator
-//Sorceries (1)
 1 Go for Blood
-//Instants (3)
 1 Starstorm
 1 Deem Worthy
 1 Raking Claws
-//Enchantments (1)
 1 Reptilian Reflection
-//Lands (8)
-1 Forgotten Cave
-1 Thriving Bluff
-6 Mountain

@@ -1,6 +1,12 @@
+WOLVES (3)
+//Creatures (1)
+1 Mild-Mannered Librarian
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
 1 Kessig Cagebreakers
 1 Feed the Pack
-1 Mild-Mannered Librarian
 1 Predator's Howl
 1 Wolfwillow Haven
 1 Arlinn, Voice of the Pack
@@ -10,6 +16,3 @@
 1 Spectral Hunt-Caller
 1 Prey Upon
 1 Hunger of the Howlpack
-1 Thriving Grove
-7 Forest
-

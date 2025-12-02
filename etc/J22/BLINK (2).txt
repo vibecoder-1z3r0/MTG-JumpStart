@@ -1,20 +1,19 @@
 BLINK (2)
-//Creatures (8)
-1 Distinguished Conjurer
+//Creatures (2)
 1 Brightmare
-1 Imperial Aerosaur
-1 Emiel the Blessed
-1 Daybreak Charger
 1 Inspiring Overseer
-1 Valorous Steed
-1 Rambunctious Mutt
-//Sorceries (1)
-1 Settle Beyond Reality
-//Instants (2)
-1 Flicker of Fate
-1 Justiciar's Portal
 //Enchantments (1)
 1 Faith's Fetters
 //Lands (8)
 1 Thriving Heath
 7 Plains
+//Unknown
+1 Distinguished Conjurer
+1 Imperial Aerosaur
+1 Emiel the Blessed
+1 Daybreak Charger
+1 Valorous Steed
+1 Rambunctious Mutt
+1 Settle Beyond Reality
+1 Flicker of Fate
+1 Justiciar's Portal

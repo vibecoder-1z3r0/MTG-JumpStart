@@ -1,20 +1,19 @@
 MULTI-HEADED (2)
-//Creatures (8)
+//Creatures (3)
+1 Servant of the Scale
+1 Kujar Seedsculptor
+1 Pridemalkin
+//Sorceries (1)
+1 Hunter's Edge
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
 1 Primordial Hydra
 1 Benevolent Hydra
 1 Domesticated Hydra
 1 Clockwork Hydra
-1 Servant of the Scale
-1 Kujar Seedsculptor
 1 Ilysian Caryatid
-1 Pridemalkin
-//Sorceries (1)
-1 Hunter's Edge
-//Instants (1)
 1 Titanic Brawl
-//Enchantments (2)
 1 Ordeal of Nylea
 1 Hydra's Growth
-//Lands (8)
-1 Thriving Grove
-7 Forest

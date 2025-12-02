@@ -1,20 +1,19 @@
 GIGANTIC (1)
-//Creatures (8)
-1 Runadi, Behemoth Caller
+//Creatures (2)
 1 Thrashing Brontodon
+1 Colossal Dreadmaw
+//Sorceries (1)
+1 Gift of the Gargantuan
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
+1 Runadi, Behemoth Caller
 1 Towering Gibbon
 1 Woodborn Behemoth
 1 Naga Vitalist
 1 Ondu Giant
-1 Colossal Dreadmaw
 1 Havenwood Wurm
-//Sorceries (2)
 1 Enlarge
-1 Gift of the Gargantuan
-//Instants (1)
 1 Pounce
-//Enchantments (1)
 1 Overgrowth
-//Lands (8)
-1 Thriving Grove
-7 Forest

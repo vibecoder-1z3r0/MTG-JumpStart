@@ -1,0 +1,20 @@
+MITE-Y (2)
+//Creatures (7)
+1 Mite Overseer
+1 Bladed Ambassador
+1 Crawling Chorus
+1 Mandible Justiciar
+1 Duelist of Deep Faith
+1 Porcelain Zealot
+1 Apostle of Invasion
+//Instants (2)
+1 Compleat Devotion
+1 Vanish into Eternity
+//Enchantments (2)
+1 Zealot's Conviction
+1 Ossification
+//Lands (8)
+7 Plains
+1 The Fair Basilica
+//Special
+1 Random rare or mythic rare

@@ -1,6 +1,12 @@
+TREASURE (3)
+//Creatures (1)
+1 Rapacious Dragon
+//Lands (8)
+1 Thriving Bluff
+7 Mountain
+//Unknown
 1 Goldspan Dragon
 1 Blood Aspirant
-1 Rapacious Dragon
 1 Kuldotha Flamefiend
 1 Blaze
 1 Goldhound
@@ -10,6 +16,3 @@
 1 Goldvein Pick
 1 Welding Sparks
 1 Big Score
-1 Thriving Bluff
-7 Mountain
-

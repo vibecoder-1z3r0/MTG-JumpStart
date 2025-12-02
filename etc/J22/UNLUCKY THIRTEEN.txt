@@ -1,21 +1,21 @@
 UNLUCKY THIRTEEN
-//Creatures (8)
+//Creatures (1)
+1 Gnawing Zombie
+//Sorceries (1)
+1 Exsanguinate
+//Instants (1)
+1 Tragic Slip
+//Lands (7)
+1 Thriving Moor
+6 Swamp
+//Unknown
 1 Tree of Perdition
 1 Disciple of Perdition
 1 Sling-Gang Lieutenant
 1 Blight Keeper
-1 Gnawing Zombie
 1 Skirsdag Supplicant
 1 Soulcage Fiend
 1 Dread Rider
-//Sorceries (2)
 1 Ruthless Disposal
-1 Exsanguinate
-//Instants (1)
-1 Tragic Slip
-//Enchantments (1)
 1 Triskaidekaphobia
-//Lands (8)
 1 Piranha Marsh
-1 Thriving Moor
-6 Swamp

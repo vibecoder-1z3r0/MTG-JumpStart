@@ -1,6 +1,12 @@
+TREASURE (4)
+//Creatures (1)
+1 Rapacious Dragon
+//Lands (8)
+1 Thriving Bluff
+7 Mountain
+//Unknown
 1 Gadrak, the Crown-Scourge
 1 Blood Aspirant
-1 Rapacious Dragon
 1 Kuldotha Flamefiend
 1 Trove of Temptation
 1 Goldhound
@@ -10,6 +16,3 @@
 1 Goldvein Pick
 1 Welding Sparks
 1 Improvised Weaponry
-1 Thriving Bluff
-7 Mountain
-

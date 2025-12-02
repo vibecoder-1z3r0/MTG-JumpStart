@@ -1,15 +1,19 @@
-1 Felidar Retreat
-1 Trove Warden
+CATS (2)
+//Creatures (3)
 1 Ingenious Leonin
 1 King of the Pride
 1 Savannah Lions
+//Instants (2)
 1 Make a Stand
+1 Impeccable Timing
+//Lands (8)
+1 Thriving Heath
+7 Plains
+//Unknown
+1 Felidar Retreat
+1 Trove Warden
 1 Steppe Lynx
 1 Mesa Lynx
 1 Leonin Snarecaster
 1 Prowling Felidar
-1 Impeccable Timing
 1 Weight of Conscience
-1 Thriving Heath
-7 Plains
-

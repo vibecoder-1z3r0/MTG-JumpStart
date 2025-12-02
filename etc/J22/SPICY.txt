@@ -1,5 +1,10 @@
 SPICY
-//Creatures (8)
+//Instants (1)
+1 Sarkhan's Rage
+//Lands (8)
+1 Thriving Bluff
+7 Mountain
+//Unknown
 1 Auntie Blyte, Bad Influence
 1 Goblin Artillery
 1 Goblin Psychopath
@@ -8,14 +13,6 @@ SPICY
 1 Fireslinger
 1 Smoldering Efreet
 1 Coalhauler Swine
-//Sorceries (1)
 1 Aftershock
-//Instants (1)
-1 Sarkhan's Rage
-//Artifacts (1)
 1 Loxodon Warhammer
-//Enchantments (1)
 1 Impending Doom
-//Lands (8)
-1 Thriving Bluff
-7 Mountain

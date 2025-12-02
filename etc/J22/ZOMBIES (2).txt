@@ -1,15 +1,21 @@
-1 Liliana, Death's Majesty
-1 Deadly Plot
-1 Lord of the Accursed
-1 Stitcher’s Supplier
+ZOMBIES (2)
+//Creatures (4)
 1 Gravedigger
 1 Suspicious Shambler
-1 Returned Reveler
 1 Crow of Dark Tidings
-1 Ghoulraiser
 1 Maalfeld Twins
-1 Dead Weight
+//Sorceries (1)
 1 Cemetery Recruitment
+//Instants (1)
+1 Deadly Plot
+//Planeswalkers (1)
+1 Liliana, Death's Majesty
+//Lands (8)
 1 Thriving Moor
 7 Swamp
-
+//Unknown
+1 Lord of the Accursed
+1 Stitcher’s Supplier
+1 Returned Reveler
+1 Ghoulraiser
+1 Dead Weight

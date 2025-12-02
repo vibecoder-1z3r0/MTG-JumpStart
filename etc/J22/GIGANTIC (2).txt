@@ -1,19 +1,19 @@
 GIGANTIC (2)
-//Creatures (8)
-1 Runadi, Behemoth Caller
-1 Engulfing Slagwurm
+//Creatures (3)
 1 Paradise Druid
 1 Thrashing Brontodon
-1 Towering Gibbon
 1 Colossal Dreadmaw
-1 Ondu Giant
-1 Mammoth Spider
-//Sorceries (3)
-1 Enlarge
-1 Prey Upon
+//Sorceries (1)
 1 Gift of the Gargantuan
-//Enchantments (1)
-1 Overgrowth
 //Lands (8)
 1 Thriving Grove
 7 Forest
+//Unknown
+1 Runadi, Behemoth Caller
+1 Engulfing Slagwurm
+1 Towering Gibbon
+1 Ondu Giant
+1 Mammoth Spider
+1 Enlarge
+1 Prey Upon
+1 Overgrowth

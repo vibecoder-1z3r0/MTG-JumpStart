@@ -1,19 +1,19 @@
 MULTI-HEADED (1)
-//Creatures (7)
+//Creatures (1)
+1 Servant of the Scale
+//Sorceries (2)
+1 Adventurous Impulse
+1 Hunter's Edge
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
 1 Benevolent Hydra
 1 Domesticated Hydra
 1 Clockwork Hydra
 1 Feral Hydra
-1 Servant of the Scale
 1 Ilysian Caryatid
 1 Fertilid
-//Sorceries (4)
-1 Adventurous Impulse
 1 Scale the Heights
-1 Hunter's Edge
 1 Soul's Might
-//Enchantments (1)
 1 Hydra's Growth
-//Lands (8)
-1 Thriving Grove
-7 Forest

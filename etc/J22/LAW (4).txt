@@ -1,3 +1,8 @@
+LAW (4)
+//Lands (8)
+1 Thriving Heath
+7 Plains
+//Unknown
 1 Isamaru, Hound of Konda
 1 Michiko Konda, Truth Seeker
 1 Magnanimous Magistrate
@@ -10,6 +15,3 @@
 1 Nightguard Patrol
 1 Skyhunter Patrol
 1 Bring to Trial
-1 Thriving Heath
-7 Plains
-

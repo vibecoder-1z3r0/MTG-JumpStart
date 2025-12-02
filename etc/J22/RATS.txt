@@ -1,20 +1,19 @@
 RATS
-//Creatures (9)
+//Creatures (1)
+1 Typhoid Rats
+//Instants (1)
+1 Ulcerate
+//Lands (8)
+1 Thriving Moor
+7 Swamp
+//Unknown
 1 Ashcoat of the Shadow Swarm
 1 Ogre Slumlord
 1 Nezumi Bone-Reader
 1 Crypt Rats
 1 Ossuary Rats
-1 Typhoid Rats
 1 Burglar Rat
 1 Sinuous Vermin
 1 Chittering Rats
-//Sorceries (1)
 1 Eviscerate
-//Instants (1)
-1 Ulcerate
-//Artifacts (1)
 1 Infiltration Lens
-//Lands (8)
-1 Thriving Moor
-7 Swamp

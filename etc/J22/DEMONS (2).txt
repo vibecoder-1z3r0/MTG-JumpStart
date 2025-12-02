@@ -1,20 +1,18 @@
 DEMONS (2)
-//Creatures (8)
+//Creatures (2)
+1 Dreadhound
+1 Doomed Dissenter
+//Lands (8)
+1 Thriving Moor
+7 Swamp
+//Unknown
 1 Demon of Catastrophes
 1 Seizan, Perverter of Truth
 1 Conductor of Cacophony
 1 Disciple of Perdition
 1 Demon's Disciple
-1 Dreadhound
-1 Doomed Dissenter
 1 Takenuma Bleeder
-//Sorceries (1)
 1 Demon's Grasp
-//Instants (2)
 1 Diabolic Edict
 1 Demonic Gifts
-//Artifacts (1)
 1 Infernal Idol
-//Lands (8)
-1 Thriving Moor
-7 Swamp

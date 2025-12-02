@@ -1,0 +1,21 @@
+TOXIC (1)
+//Creatures (7)
+1 Cankerbloom
+1 Copper Longlegs
+1 Branchblight Stalker
+1 Contagious Vorrac
+1 Venomous Brutalizer
+1 Paladin of Predation
+1 Ichorspit Basilisk
+//Instants (2)
+1 Titanic Growth
+1 Infectious Bite
+//Artifacts (1)
+1 Phyrexian Atlas
+//Enchantments (1)
+1 Goliath Hatchery
+//Lands (8)
+1 The Hunter Maze
+7 Forest
+//Special
+1 Random rare or mythic rare

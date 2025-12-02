@@ -1,15 +1,19 @@
-1 Wolverine Riders
+ELVES (3)
+//Creatures (3)
 1 Woodland Champion
 1 Dwynen's Elite
+1 Ivy Lane Denizen
+//Instants (2)
+1 Might of the Masses
+1 Band Together
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
+1 Wolverine Riders
 1 Elven Bow
 1 Instruments of War
 1 Elvish Rejuvenator
-1 Ivy Lane Denizen
 1 Elderleaf Mentor
 1 Lys Alana Huntmaster
-1 Might of the Masses
 1 Roots of Wisdom
-1 Band Together
-1 Thriving Grove
-7 Forest
-

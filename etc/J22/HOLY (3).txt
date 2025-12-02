@@ -1,15 +1,20 @@
-1 Dawn of Hope
+HOLY (3)
+//Creatures (1)
 1 Valkyrie Harbinger
+//Instants (2)
+1 Light of Hope
+1 Divine Arrow
+//Enchantments (1)
+1 Chains of Custody
+//Lands (8)
+1 Thriving Heath
+7 Plains
+//Unknown
+1 Dawn of Hope
 1 Planar Atlas
 1 Emancipation Angel
 1 Serene Steward
 1 Inspiring Cleric
-1 Chains of Custody
 1 Pilgrim of the Ages
 1 Dawning Angel
 1 Anointer of Valor
-1 Light of Hope
-1 Divine Arrow
-1 Thriving Heath
-7 Plains
-

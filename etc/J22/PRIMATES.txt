@@ -1,5 +1,8 @@
 PRIMATES
-//Creatures (8)
+//Lands (7)
+1 Thriving Grove
+6 Forest
+//Unknown
 1 Kibo, Uktabi Prince
 1 Uktabi Orangutan
 1 Towering Gibbon
@@ -8,14 +11,8 @@ PRIMATES
 1 Silverback Shaman
 1 Hooting Mandrills
 1 Simian Brawler
-//Sorceries (2)
 1 Declare Dominance
 1 Cultivate
-//Instants (1)
 1 Ram Through
-//Artifacts (1)
 1 Monkey Cage
-//Lands (8)
 1 Treetop Village
-1 Thriving Grove
-6 Forest

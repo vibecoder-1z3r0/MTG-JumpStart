@@ -1,19 +1,19 @@
 BONEYARD (1)
-//Creatures (9)
-1 Ossuary Rats
-1 Stitcher's Supplier
-1 Revenant
+//Creatures (4)
 1 Suspicious Shambler
 1 Wailing Ghoul
-1 Pit Keeper
-1 Spark Reaper
 1 Gorging Vulture
 1 Moodmark Painter
 //Instants (2)
 1 Necrotic Wound
 1 Corpse Churn
-//Enchantments (1)
-1 Oversold Cemetery
 //Lands (8)
 1 Thriving Moor
 7 Swamp
+//Unknown
+1 Ossuary Rats
+1 Stitcher's Supplier
+1 Revenant
+1 Pit Keeper
+1 Spark Reaper
+1 Oversold Cemetery

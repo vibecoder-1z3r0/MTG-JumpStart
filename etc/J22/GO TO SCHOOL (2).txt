@@ -1,21 +1,19 @@
 GO TO SCHOOL (2)
-//Planeswalkers (1)
-1 Kasmina, Enigmatic Mentor
-//Creatures (7)
-1 Biblioplex Kraken
-1 Overwhelmed Apprentice
+//Creatures (2)
 1 Merfolk Pupil
-1 Campus Guide
-1 Teferi's Protege
-1 Elite Instructor
 1 Academy Journeymage
-//Sorceries (1)
-1 Multiple Choice
-//Instants (2)
-1 Dismiss
+//Instants (1)
 1 Bury in Books
-//Enchantments (1)
-1 Rhystic Study
 //Lands (8)
 1 Thriving Isle
 7 Island
+//Unknown
+1 Kasmina, Enigmatic Mentor
+1 Biblioplex Kraken
+1 Overwhelmed Apprentice
+1 Campus Guide
+1 Teferi's Protege
+1 Elite Instructor
+1 Multiple Choice
+1 Dismiss
+1 Rhystic Study

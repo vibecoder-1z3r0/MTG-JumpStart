@@ -1,3 +1,10 @@
+INSECTS (3)
+//Sorceries (1)
+1 Hunter's Edge
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
 1 Deadbridge Goliath
 1 Phantom Nantuko
 1 Nessian Hornbeetle
@@ -9,7 +16,3 @@
 1 Ironshell Beetle
 1 Giant Ladybug
 1 Relentless Pursuit
-1 Hunter's Edge
-1 Thriving Grove
-7 Forest
-

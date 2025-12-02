@@ -1,7 +1,9 @@
-NAME
-//Planeswalkers (1)
+URZA'S
+//Artifacts (1)
+1 Universal Solvent
+//Unknown
+1 NAME
 1 Karn Liberated
-//Creatures (7)
 1 Walking Ballista
 1 Golem Artisan
 1 Meteor Golem
@@ -9,12 +11,9 @@ NAME
 1 Runed Servitor
 1 Manakin
 1 Thaumaturge's Familiar
-//Artifacts (4)
 1 Planar Atlas
-1 Universal Solvent
 1 Alchemist's Vial
 1 Expedition Map
-//Lands (8)
 1 Urza's Factory
 3 Urza's Tower
 2 Urza's Power Plant

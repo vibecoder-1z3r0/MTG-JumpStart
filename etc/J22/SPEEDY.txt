@@ -1,18 +1,18 @@
 SPEEDY
-//Creatures (9)
+//Creatures (2)
+1 Markov Warlord
+1 Fanatical Firebrand
+//Lands (8)
+1 Thriving Bluff
+7 Mountain
+//Unknown
 1 Kiki-Jiki, Mirror Breaker
 1 Ardoz, Cobbler of War
 1 Bolt Hound
 1 Warcry Phoenix
-1 Markov Warlord
-1 Fanatical Firebrand
 1 Nest Robber
 1 Mudbutton Torchrunner
 1 Irreverent Revelers
-//Instants (3)
 1 Fiery Conclusion
 1 Rush of Adrenaline
 1 Swift Kick
-//Lands (8)
-1 Thriving Bluff
-7 Mountain

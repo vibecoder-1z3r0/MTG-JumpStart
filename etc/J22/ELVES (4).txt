@@ -1,15 +1,20 @@
-1 Wildborn Preserver
+ELVES (4)
+//Creatures (3)
 1 Woodland Champion
 1 Dwynen's Elite
-1 Elven Bow
+1 Ivy Lane Denizen
+//Sorceries (1)
 1 Overcome
+//Instants (1)
+1 Band Together
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
+1 Wildborn Preserver
+1 Elven Bow
 1 Elvish Rejuvenator
 1 Dutiful Replicator
-1 Ivy Lane Denizen
 1 Elderleaf Mentor
 1 Roots of Wisdom
 1 Presence of Gond
-1 Band Together
-1 Thriving Grove
-7 Forest
-

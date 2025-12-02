@@ -1,5 +1,11 @@
-1 Master of the Wild Hunt
+WOLVES (2)
+//Creatures (1)
 1 Mild-Mannered Librarian
+//Lands (8)
+1 Thriving Grove
+7 Forest
+//Unknown
+1 Master of the Wild Hunt
 1 Howlgeist
 1 Moonlight Hunt
 1 Arlinn, Voice of the Pack
@@ -10,6 +16,3 @@
 1 Spectral Hunt-Caller
 1 Prey Upon
 1 Howl of the Hunt
-1 Thriving Grove
-7 Forest
-

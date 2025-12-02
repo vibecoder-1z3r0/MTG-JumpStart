@@ -1,15 +1,20 @@
+HOLY (4)
+//Creatures (2)
 1 Righteous Valkyrie
+1 Daybreak Chaplain
+//Instants (2)
+1 Light of Hope
+1 Divine Arrow
+//Enchantments (2)
+1 Faith's Fetters
+1 Chains of Custody
+//Lands (8)
+1 Thriving Heath
+7 Plains
+//Unknown
 1 Emancipation Angel
 1 Inspiring Cleric
 1 Attended Healer
-1 Faith's Fetters
-1 Chains of Custody
-1 Daybreak Chaplain
 1 Pilgrim of the Ages
 1 Pillardrop Rescuer
 1 Anointer of Valor
-1 Light of Hope
-1 Divine Arrow
-1 Thriving Heath
-7 Plains
-

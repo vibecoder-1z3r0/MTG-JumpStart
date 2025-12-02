@@ -1,20 +1,20 @@
 SPIRITS (2)
-//Creatures (7)
-1 Eidolon of Rhetoric
-1 Mausoleum Guard
-1 Gallows Warden
+//Creatures (1)
 1 Doomed Traveler
-1 Kami of Ancient Law
-1 Pilgrim of the Ages
-1 Martyr's Soul
-//Sorceries (2)
-1 Hour of Reckoning
+//Sorceries (1)
 1 Triplicate Spirits
-//Instants (2)
-1 Devouring Light
-1 Blessed Defiance
 //Enchantments (1)
 1 Chains of Custody
 //Lands (8)
 1 Thriving Heath
 7 Plains
+//Unknown
+1 Eidolon of Rhetoric
+1 Mausoleum Guard
+1 Gallows Warden
+1 Kami of Ancient Law
+1 Pilgrim of the Ages
+1 Martyr's Soul
+1 Hour of Reckoning
+1 Devouring Light
+1 Blessed Defiance
