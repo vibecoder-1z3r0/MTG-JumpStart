@@ -41,7 +41,19 @@
       ],
       "rarity": "uncommon",
       "power": "3",
-      "toughness": "2"
+      "toughness": "2",
+      "unofficial_tokens": [
+        {
+          "name": "Skeleton",
+          "type_line": "Token Creature — Skeleton",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -218,6 +230,18 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "common"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Skeleton",
+      "type_line": "Token Creature — Skeleton",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": []
     }
   ]
 }

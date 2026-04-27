@@ -43,7 +43,21 @@
       ],
       "rarity": "uncommon",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "unofficial_tokens": [
+        {
+          "name": "Jellyfish",
+          "type_line": "Token Creature — Jellyfish",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": [
+            "Flying"
+          ]
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -209,6 +223,20 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "common"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Jellyfish",
+      "type_line": "Token Creature — Jellyfish",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": [
+        "Flying"
+      ]
     }
   ]
 }

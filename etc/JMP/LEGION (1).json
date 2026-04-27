@@ -238,7 +238,19 @@
       "colors": [
         "W"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "unofficial_tokens": [
+        {
+          "name": "Unicorn",
+          "type_line": "Token Creature — Unicorn",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -264,6 +276,18 @@
       "quantity": 1,
       "name": "Legion Plains",
       "type": "Unknown"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Unicorn",
+      "type_line": "Token Creature — Unicorn",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": []
     }
   ]
 }

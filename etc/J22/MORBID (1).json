@@ -197,7 +197,17 @@
       "mana_cost": "{2}",
       "cmc": 2.0,
       "colors": [],
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "unofficial_tokens": [
+        {
+          "name": "Spawn",
+          "type_line": "Token Creature — Spawn",
+          "colors": [],
+          "power": "1",
+          "toughness": "1",
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -228,6 +238,16 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "common"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Spawn",
+      "type_line": "Token Creature — Spawn",
+      "colors": [],
+      "power": "1",
+      "toughness": "1",
+      "keywords": []
     }
   ]
 }

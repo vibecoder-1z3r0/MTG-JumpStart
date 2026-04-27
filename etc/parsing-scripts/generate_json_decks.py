@@ -121,6 +121,9 @@ def generate_json_from_txt(txt_file: Path, cache: Dict) -> Dict:
             # Token data — only include if card actually creates tokens
             if card_data.get("tokens"):
                 card_entry["tokens"] = card_data["tokens"]
+            # Unofficial tokens — created by card text but no official printed token card
+            if card_data.get("unofficial_tokens"):
+                card_entry["unofficial_tokens"] = card_data["unofficial_tokens"]
         else:
             # Card not in cache
             card_entry["type"] = "Unknown"
@@ -137,6 +140,15 @@ def generate_json_from_txt(txt_file: Path, cache: Dict) -> Dict:
                 seen_token_names[name] = token
     deck_tokens = sorted(seen_token_names.values(), key=lambda t: t["name"])
 
+    # Aggregate deck-level unofficial tokens (same dedup logic).
+    seen_unofficial_names: dict = {}
+    for card in cards:
+        for token in card.get("unofficial_tokens", []):
+            name = token["name"]
+            if name not in seen_unofficial_names:
+                seen_unofficial_names[name] = token
+    deck_unofficial_tokens = sorted(seen_unofficial_names.values(), key=lambda t: t["name"])
+
     # Build final structure
     deck_json = {
         "deck_name": deck_name,
@@ -144,6 +156,8 @@ def generate_json_from_txt(txt_file: Path, cache: Dict) -> Dict:
         "tokens": deck_tokens,
         "cards": cards
     }
+    if deck_unofficial_tokens:
+        deck_json["unofficial_tokens"] = deck_unofficial_tokens
 
     return deck_json
 

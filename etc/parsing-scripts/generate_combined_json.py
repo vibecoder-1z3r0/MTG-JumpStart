@@ -67,13 +67,16 @@ def load_all_decks():
             deck_key = f"{set_code}:{deck_name}"
 
             # Store deck
-            all_decks[deck_key] = {
+            deck_entry = {
                 "set": set_code,
                 "set_name": SET_NAMES.get(set_code, set_code),
                 "deck_name": deck_name,
                 "tokens": deck_data.get("tokens", []),
                 "cards": deck_data["cards"]
             }
+            if deck_data.get("unofficial_tokens"):
+                deck_entry["unofficial_tokens"] = deck_data["unofficial_tokens"]
+            all_decks[deck_key] = deck_entry
 
             # Build card index
             for card in deck_data["cards"]:

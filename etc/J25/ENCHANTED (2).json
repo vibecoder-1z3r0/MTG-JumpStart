@@ -43,7 +43,19 @@
       ],
       "rarity": "uncommon",
       "power": "1",
-      "toughness": "1"
+      "toughness": "1",
+      "unofficial_tokens": [
+        {
+          "name": "Nymph",
+          "type_line": "Token Enchantment Creature — Nymph",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -211,6 +223,18 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "common"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Nymph",
+      "type_line": "Token Enchantment Creature — Nymph",
+      "colors": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": []
     }
   ]
 }

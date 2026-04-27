@@ -15,7 +15,20 @@
       ],
       "rarity": "mythic",
       "power": "3",
-      "toughness": "3"
+      "toughness": "3",
+      "unofficial_tokens": [
+        {
+          "name": "Zeppelin",
+          "type_line": "Token Artifact Creature — Zeppelin",
+          "colors": [],
+          "power": "5",
+          "toughness": "5",
+          "keywords": [
+            "Flying",
+            "Crew 3"
+          ]
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -174,6 +187,19 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "common"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Zeppelin",
+      "type_line": "Token Artifact Creature — Zeppelin",
+      "colors": [],
+      "power": "5",
+      "toughness": "5",
+      "keywords": [
+        "Flying",
+        "Crew 3"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2026-04-26T21:17:02.289146+00:00",
+    "generated": "2026-04-27T18:45:20.052629+00:00",
     "total_tokens": 101,
     "total_source_refs": 921,
     "decks_scanned": 529,
@@ -17,7 +17,8 @@
       "CLU",
       "FDN",
       "TLB"
-    ]
+    ],
+    "scope": "Official tokens only — entries require a Scryfall oracle_id, meaning WotC has printed a physical token card for them. Tokens created by card text that have no official printed token card (e.g. Monkey, Banana, Zeppelin) are tracked separately as 'unofficial_tokens' on the individual deck JSON files."
   },
   "tokens": [
     {

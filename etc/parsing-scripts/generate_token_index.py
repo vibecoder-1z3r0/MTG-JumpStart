@@ -156,6 +156,13 @@ def main():
             "total_source_refs": total_source_refs,
             "decks_scanned": total_decks,
             "sets": SETS,
+            "scope": (
+                "Official tokens only — entries require a Scryfall oracle_id, meaning "
+                "WotC has printed a physical token card for them. Tokens created by card "
+                "text that have no official printed token card (e.g. Monkey, Banana, "
+                "Zeppelin) are tracked separately as 'unofficial_tokens' on the "
+                "individual deck JSON files."
+            ),
         },
         "tokens": tokens_sorted,
     }

@@ -15,7 +15,15 @@
       ],
       "rarity": "mythic",
       "power": "2",
-      "toughness": "2"
+      "toughness": "2",
+      "unofficial_tokens": [
+        {
+          "name": "Banana",
+          "type_line": "Token Artifact — Banana",
+          "colors": [],
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -159,7 +167,19 @@
       "mana_cost": "{5}",
       "cmc": 5.0,
       "colors": [],
-      "rarity": "rare"
+      "rarity": "rare",
+      "unofficial_tokens": [
+        {
+          "name": "Monkey",
+          "type_line": "Token Creature — Monkey",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -190,6 +210,24 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "uncommon"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Banana",
+      "type_line": "Token Artifact — Banana",
+      "colors": [],
+      "keywords": []
+    },
+    {
+      "name": "Monkey",
+      "type_line": "Token Creature — Monkey",
+      "colors": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "keywords": []
     }
   ]
 }

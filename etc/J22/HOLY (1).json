@@ -147,7 +147,19 @@
       "colors": [
         "W"
       ],
-      "rarity": "rare"
+      "rarity": "rare",
+      "unofficial_tokens": [
+        {
+          "name": "Unicorn",
+          "type_line": "Token Creature — Unicorn",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "keywords": []
+        }
+      ]
     },
     {
       "quantity": 1,
@@ -180,6 +192,18 @@
       "cmc": 0.0,
       "colors": [],
       "rarity": "common"
+    }
+  ],
+  "unofficial_tokens": [
+    {
+      "name": "Unicorn",
+      "type_line": "Token Creature — Unicorn",
+      "colors": [
+        "W"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "keywords": []
     }
   ]
 }

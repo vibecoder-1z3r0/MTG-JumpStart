@@ -3635,7 +3635,19 @@
       "W"
     ],
     "rarity": "rare",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Unicorn",
+        "type_line": "Token Creature — Unicorn",
+        "colors": [
+          "W"
+        ],
+        "power": "2",
+        "toughness": "2",
+        "keywords": []
+      }
+    ]
   },
   "Blessed Spirits": {
     "type": "Creatures",
@@ -7498,7 +7510,21 @@
     "rarity": "uncommon",
     "power": "2",
     "toughness": "2",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Jellyfish",
+        "type_line": "Token Creature — Jellyfish",
+        "colors": [
+          "U"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "keywords": [
+          "Flying"
+        ]
+      }
+    ]
   },
   "Dagger Caster": {
     "type": "Creatures",
@@ -18445,7 +18471,15 @@
     "rarity": "mythic",
     "power": "2",
     "toughness": "2",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Banana",
+        "type_line": "Token Artifact — Banana",
+        "colors": [],
+        "keywords": []
+      }
+    ]
   },
   "Kiki-Jiki, Mirror Breaker": {
     "type": "Creatures",
@@ -20016,7 +20050,20 @@
     "rarity": "mythic",
     "power": "3",
     "toughness": "3",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Zeppelin",
+        "type_line": "Token Artifact Creature — Zeppelin",
+        "colors": [],
+        "power": "5",
+        "toughness": "5",
+        "keywords": [
+          "Flying",
+          "Crew 3"
+        ]
+      }
+    ]
   },
   "Littjara Kinseekers": {
     "type": "Creatures",
@@ -22262,7 +22309,19 @@
     "cmc": 5.0,
     "colors": [],
     "rarity": "rare",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Monkey",
+        "type_line": "Token Creature — Monkey",
+        "colors": [
+          "G"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "keywords": []
+      }
+    ]
   },
   "Moodmark Painter": {
     "type": "Creatures",
@@ -24355,7 +24414,19 @@
     "rarity": "uncommon",
     "power": "3",
     "toughness": "2",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Skeleton",
+        "type_line": "Token Creature — Skeleton",
+        "colors": [
+          "B"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "keywords": []
+      }
+    ]
   },
   "Pacifism": {
     "type": "Enchantments",
@@ -26081,7 +26152,19 @@
     "rarity": "uncommon",
     "power": "1",
     "toughness": "1",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Nymph",
+        "type_line": "Token Enchantment Creature — Nymph",
+        "colors": [
+          "W"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "keywords": []
+      }
+    ]
   },
   "Psychic Impetus": {
     "type": "Enchantments",
@@ -31433,7 +31516,17 @@
     "cmc": 2.0,
     "colors": [],
     "rarity": "uncommon",
-    "tokens": []
+    "tokens": [],
+    "unofficial_tokens": [
+      {
+        "name": "Spawn",
+        "type_line": "Token Creature — Spawn",
+        "colors": [],
+        "power": "1",
+        "toughness": "1",
+        "keywords": []
+      }
+    ]
   },
   "Speakeasy Server": {
     "type": "Creatures",

@@ -149,6 +149,8 @@ python generate_json_decks.py ../J25/ --dry-run
 
 Each output JSON includes `deck_name`, `set`, a top-level `tokens` array (deduplicated), and a `cards` array with full card data (type, mana cost, colors, P/T, tokens produced, etc.).
 
+If any cards in the deck create tokens that have no official printed token card (e.g. Monkey, Banana, Zeppelin), an `unofficial_tokens` array is also added at the deck level and on the individual card entry. These tokens exist in the rules text but cannot be obtained as physical token cards — players need to improvise a substitute.
+
 ### `generate_combined_json.py`
 Generates `etc/jumpstart-decks-combined.json` — a single file with all decks and a card → deck index.
 
@@ -159,7 +161,7 @@ python generate_combined_json.py
 
 No arguments. Reads all deck JSONs from all 12 set directories and writes the combined file (~3 MB).
 
-Each deck entry includes `deck_name`, `set`, `set_name`, a top-level `tokens` array (with `keywords` and `oracle_id`), and the full `cards` array. A `card_index` at the top level maps every card name to the list of deck keys that contain it.
+Each deck entry includes `deck_name`, `set`, `set_name`, a top-level `tokens` array (with `keywords` and `oracle_id`), an optional `unofficial_tokens` array (tokens with no official printed card), and the full `cards` array. A `card_index` at the top level maps every card name to the list of deck keys that contain it.
 
 ### `add_token_data.py`
 Backfills token data into `card_type_cache.json` for cards that don't yet have a `tokens` key.
