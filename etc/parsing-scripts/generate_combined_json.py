@@ -24,7 +24,8 @@ BASE_DIR = Path(__file__).parent.parent
 SETS = [
     "JMP", "J22", "J25", "TLA",
     "ONE", "DMU", "BRO", "MOM",
-    "LTR", "CLU", "FDN", "TLB"
+    "LTR", "CLU", "FDN", "TLB",
+    "FIN",
 ]
 
 SET_NAMES = {
@@ -39,7 +40,8 @@ SET_NAMES = {
     "LTR": "The Lord of the Rings",
     "CLU": "Ravnica: Clue Edition",
     "FDN": "Foundations Beginner Box",
-    "TLB": "Avatar TLA Beginner Box"
+    "TLB": "Avatar TLA Beginner Box",
+    "FIN": "Final Fantasy",
 }
 
 
